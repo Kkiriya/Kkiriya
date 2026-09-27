@@ -12,7 +12,7 @@ Submission for Dingo GameJam 2025, I was responsible for all the game logic, wri
 
 
 ## 🧰 Tech Stack
-<table width="100%>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
